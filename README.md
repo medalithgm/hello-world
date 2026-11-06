@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub flow
+Hello! This is Medalith. I love cats and Taylor Swift
